@@ -47,8 +47,6 @@
   "FIntRenderGrassDetailStrands": "0",
   "FFlagGlobalWindRendering": "False",
   "FFlagGlobalWindActivated": "False",
-  "FFlagDebugAvatarChatVisualization": "True",
-  "FFlagDebugHumanoidRendering": "True",
   "FFlagDebugSkyGray": "True",
   "DFFlagSimSmoothedRunningController2": "True",
   "DFFlagHumanoidReplicateSimulated2": "True",
@@ -68,5 +66,9 @@
   "DFIntHumanoidTurnSpeed": "2147483647",
   "DFIntHumanoidRotateSpeed": "2147483647",
   "DFIntHumanoidPivotSpeed": "2147483647",
-  "DFIntHumanoidFloorManualFrictionVelocityMultValue": "2147483647"
+  "DFIntHumanoidFloorManualFrictionVelocityMultValue": "2147483647",
+  "DFIntSimTimestepMultiplierDebounceCount": "1",
+  "FFlagDebugHumanoidNewPhysicsEnabled": "True",
+  "DFFlagDebugSimAdaptiveEnable60HzHumanoids": "True",
+  "DFFlagSimAdaptiveEnable60HzParts": "True"
 }
