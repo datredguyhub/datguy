@@ -58,5 +58,15 @@
   "DFIntAnimatorThrottleMaxFramesToSkip": "0",
   "DFFlagAnimatorThrottleRccEnabled": "False",
   "DFIntMaxActiveAnimationTracks": "2147483647",
-  "DFIntDebugFRMQualityLevelOverride": "10"
+  "DFIntDebugFRMQualityLevelOverride": "10",
+  "DFIntHumanoidWalkSpeedScale": "3",
+  "DFIntHumanoidRunSpeedScale": "3",
+  "DFIntHumanoidAcceleration": "5000",
+  "DFIntHumanoidDeceleration": "5000",
+  "DFIntHumanoidGroundDeceleration": "5000",
+  "DFIntHumanoidAirDeceleration": "5000",
+  "DFIntHumanoidTurnSpeed": "2147483647",
+  "DFIntHumanoidRotateSpeed": "2147483647",
+  "DFIntHumanoidPivotSpeed": "2147483647",
+  "DFIntHumanoidFloorManualFrictionVelocityMultValue": "2147483647"
 }
