@@ -1,5 +1,5 @@
 {
-  "DFIntSimTimestepMultiplierDebounceCount": "1",
+  "DFIntSimTimestepMultiplierDebounceCount": "4",
   "FFlagDebugHumanoidNewPhysicsEnabled": "True",
   "DFFlagDebugSimAdaptiveEnable60HzHumanoids": "True",
   "DFFlagSimAdaptiveEnable60HzParts": "True"
