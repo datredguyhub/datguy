@@ -53,6 +53,7 @@
 "DFIntDebugFRMQualityLevelOverride": "1",
 "FFlagDebugSkyGray": "True",
 "FIntFRMMaxGrassDistance": "0",
+"FIntFRMMinGrassDistance": "0",
 "FIntRenderGrassHeightScaler": "0",
 "FIntRenderGrassDetailStrands": "0",
 "FFlagFastGPULightCulling3": "True",
