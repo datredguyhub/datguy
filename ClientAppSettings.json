@@ -27,6 +27,7 @@
 "DFIntHumanoidRotateSpeed":"2147483647",
 "DFIntHumanoidPivotSpeed":"2147483647",
 "DFIntHumanoidFloorContactOffset":"200",
+"DFIntHumanoidFloorManualFrictionVelocityMultValue":"500",
 "DFIntTimestepArbiterHumanoidTurningVelThreshold":"1",
 "DFIntTimestepArbiterHumanoidLinearVelThreshold":"1",
 "DFIntTimestepArbiterAccelerationModelFactorThou":"1",
