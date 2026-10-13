@@ -96,5 +96,12 @@
 "FLogNetwork":"0",
 "DFIntPlayerNetworkUpdateRate":"60",
 "DFIntNetworkPrediction":"120",
-"FFlagSmoothInputOffset":"True"
+"FFlagSmoothInputOffset":"True",
+"DFIntWaitOnUpdateNetworkLoopEndedMS":"100",
+"DFIntClientNetworkInfluxHundredthsPercentage":"0",
+"DFIntRakNetClockDriftAdjustmentPerPingMillisecond":"100",
+"FFlagRakNetUseSlidingWindow4":"False",
+"DFIntRakNetUseSlidingWindow2_maxSpeed":"5000",
+"DFIntRakNetUseSlidingWindow2_minRtt":"500",
+"DFIntRakNetUseSlidingWindow2_trackLengthMs":"300"
 }
