@@ -129,5 +129,6 @@
 "DFIntMinClientSimulationRadius":"2147483647",
 "DFIntMinimalSimRadiusBuffer":"2147483647",
 "DFFlagDebugPhysicsSenderDoesNotShrinkSimRadius":"True",
-"FFlagDebugUseCustomSimRadius":"True"
+"FFlagDebugUseCustomSimRadius":"True",
+"DFIntAssemblyExtentsExpansionStudHundredth":"1000"
 }
