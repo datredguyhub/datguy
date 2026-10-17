@@ -152,5 +152,9 @@
 "DFIntCameraPitchMinDegrees":"-90",
 "DFIntCameraMaxYawSpeed":"2147483647",
 "DFIntCameraDefaultDistance":"0",
-"DFIntCameraZoomIncrement":"2147483647"
+"DFIntCameraZoomIncrement":"2147483647",
+"DFFlagDebugDrawEnable":"True",
+"FFlagDebugHumanoidRendering":"True",
+"FFlagDebugAvatarChatVisualization":"True",
+"DFFlagDebugEnableInterpolationVisualizer":"True"
 }
