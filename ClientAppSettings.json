@@ -103,5 +103,6 @@
 "FIntSSAO":"0",
 "FIntSSAOMipLevels":"0",
 "FIntRenderLocalLightUpdatesMax":"8",
-"FIntRenderLocalLightUpdatesMin":"6"
+"FIntRenderLocalLightUpdatesMin":"6",
+"DFFlagDebugPauseVoxelizer":"True"
 }
