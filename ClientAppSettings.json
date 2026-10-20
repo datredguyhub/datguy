@@ -97,5 +97,15 @@
 "DFIntNetworkPrediction":"120",
 "FFlagSmoothInputOffset":"True",
 "FFlagFasterPreciseTime4":"True",
-"DFFlagSampleAndRefreshRakPing":"True"
+"DFFlagSampleAndRefreshRakPing":"True",
+"FFlagNewLightAttenuation":"False",
+"FFlagDebugForceFutureIsBrightPhase3":"False",
+"FFlagDebugForceFutureIsBrightPhase2":"False",
+"DFFlagDebugRenderForceTechnologyVoxel":"True",
+"FIntRenderLocalLightUpdatesMax":"8",
+"FIntRenderLocalLightUpdatesMin":"6",
+"DFIntRenderClampRoughnessMax":"-640000000",
+"FFlagDebugSSAOForce":"False",
+"FIntSSAO":"0",
+"FIntSSAOMipLevels":"0"
 }
