@@ -1,4 +1,11 @@
 {
+"FFlagDebugDisableTelemetryEphemeralCounter":"True",
+"FFlagDebugDisableTelemetryPoint":"True",
+"DFFlagDisableFastLogTelemetry":"True",
+"FFlagAdServiceEnabled":"False",
+"FFlagDebugGraphicsPreferD3D11":"True",
+"FFlagRenderGpuTextureCompressor":"True",
+"DFIntTaskSchedulerTargetFps":"240",
 "DFFlagDebugDrawEnable":"True",
 "FFlagDebugHumanoidRendering":"True",
 "FFlagDebugAvatarChatVisualization":"True",
@@ -97,13 +104,6 @@
 "DFStringTelemetryV2Url":"null",
 "FFlagDebugDisableTelemetryV2":"True",
 "FFlagDebugDisableTelemetryV2Event":"True",
-"FFlagDebugDisableTelemetryEphemeralCounter":"True",
-"FFlagDebugDisableTelemetryPoint":"True",
-"DFFlagDisableFastLogTelemetry":"True",
-"FFlagAdServiceEnabled":"False",
-"FFlagDebugGraphicsPreferD3D11":"True",
-"FFlagRenderGpuTextureCompressor":"True",
-"DFIntTaskSchedulerTargetFps":"240",
 "FFlagTaskSchedulerLimitTargetFpsTo2402":"False",
 "FLogNetwork":"0"
 }
