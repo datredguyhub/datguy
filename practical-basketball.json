@@ -57,5 +57,7 @@
 "FFlagDebugDisableTelemetryEphemeralCounter":"True",
 "FFlagDebugDisableTelemetryPoint":"True",
 "DFFlagDisableFastLogTelemetry":"True",
-"DFFlagBrowserTrackerIdTelemetryEnabled":"False"
+"DFFlagBrowserTrackerIdTelemetryEnabled":"False",
+"DFIntHumanoidWalkSpeedScale":"1.1",
+"DFIntHumanoidRunSpeedScale":"1.1"
 }
